@@ -170,6 +170,7 @@ class SettingsController extends Controller {
 			'agendaDay',
 			'agendaWeek',
 			'month',
+			'year'
 		];
 
 		return in_array($view, $allowedViews);

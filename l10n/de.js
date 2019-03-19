@@ -147,6 +147,7 @@ OC.L10N.register(
     "Day" : "Tag",
     "Week" : "Woche",
     "Month" : "Monat",
+	"Year" : "Jahr",
     "Today" : "Heute",
     "More" : "Mehr",
     "Edit" : "Bearbeiten",

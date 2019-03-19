@@ -41,6 +41,9 @@ app.filter('datepickerFilter', function () {
 			case 'month':
 				return moment(datetime).format('MMMM YYYY');
 
+			case 'year':
+				return moment(datetime).format('YYYY');
+
 			default:
 				return '';
 		}

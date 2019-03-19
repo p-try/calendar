@@ -78,6 +78,12 @@ app.controller('DatePickerController', ['$scope', 'fc', 'uibDatepickerConfig', '
 						.add(index, 'month')
 						.startOf('month')
 						.toDate();
+
+				case 'year':
+					return moment($scope.dt)
+						.add(index, 'year')
+						.startOf('year')
+						.toDate();
 			}
 		}
 

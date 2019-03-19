@@ -65,6 +65,7 @@ const vendorSources = [
 	'node_modules/ical.js/build/ical.js',
 	'node_modules/jquery-timepicker/jquery.ui.timepicker.js',
 	'node_modules/jstzdetect/dist/jstz.js',
+	'node_modules/fullcalendar-yearview/dist/main.js',
 ];
 const vendorCssSources = [
 	'node_modules/fullcalendar/dist/fullcalendar.css',

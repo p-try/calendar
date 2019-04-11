@@ -2639,15 +2639,12 @@ ftp@~0.3.10:
 
 "fullcalendar-yearview@git://github.com/p-try/fullcalendar-yearview#master":
   version "1.0.0"
-  resolved "git://github.com/p-try/fullcalendar-yearview#2684cff2586944645225955c2b24962f577be5ce"
+  resolved "git://github.com/p-try/fullcalendar-yearview#47f48d7bc95b477626e259f80bdddfbd90a722cc"
 
 fullcalendar@^3.9.0:
-  version "3.9.0"
-  resolved "https://registry.yarnpkg.com/fullcalendar/-/fullcalendar-3.9.0.tgz#b608a9989f3416f0b1d526c6bdfeeaf2ac79eda5"
-  integrity sha512-bbALDK8+SBqluv8SKPDeVNtaSr87NYblte/pRgV5NnDJWCEARpRlQ1qQ/XEakcAXbMZov6rWYIvLOrtKwQo2Bg==
-  dependencies:
-    jquery "2 - 3"
-    moment "^2.20.1"
+  version "3.10.0"
+  resolved "https://registry.yarnpkg.com/fullcalendar/-/fullcalendar-3.10.0.tgz#cc5e87d518fd6550e142816a31dd191664847919"
+  integrity sha512-0OtsHhmdYhtFmQwXzyo8VqHzYgamg+zVOoytv5N13gI+iF6CGjevpCi/yBaQs0O4wY3OAp8I688IxdNYe0iAvw==
 
 function-bind@^1.1.1:
   version "1.1.1"
@@ -3956,11 +3953,6 @@ jquery-timepicker@fgelinas/timepicker#883bb2cd94, timepicker@fgelinas/timepicker
   version "0.0.0"
   resolved "https://codeload.github.com/fgelinas/timepicker/tar.gz/883bb2cd94ce65bc2a0a707b0c5911baf6de4ad4"
 
-"jquery@2 - 3":
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.3.1.tgz#958ce29e81c9790f31be7792df5d4d95fc57fbca"
-  integrity sha512-Ubldcmxp5np52/ENotGxlLe6aGMvmF4R8S6tZjsP6Knsaxd/xp3Zrh50cG93lR6nPXyUFwzN3ZSOQI0wRJNdGg==
-
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
@@ -4802,11 +4794,6 @@ mkdirp@0.5.1, mkdirp@0.5.x, mkdirp@^0.5.0, mkdirp@^0.5.1:
   integrity sha1-MAV0OOrGz3+MR2fzhkjWaX11yQM=
   dependencies:
     minimist "0.0.8"
-
-moment@^2.20.1:
-  version "2.22.2"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.22.2.tgz#3c257f9839fc0e93ff53149632239eb90783ff66"
-  integrity sha1-PCV/mDn8DpP/UxSWMiOeuQeD/2Y=
 
 ms@2.0.0:
   version "2.0.0"
